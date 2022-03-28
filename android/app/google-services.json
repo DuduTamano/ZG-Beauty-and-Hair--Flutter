@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492127776006",
+    "project_id": "zg-beauty-and-hair-flutt",
+    "storage_bucket": "zg-beauty-and-hair-flutt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492127776006:android:e3ef15381efbcbf6264287",
+        "android_client_info": {
+          "package_name": "com.example.zg_beauty_and_hair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492127776006-sh46g38l5nn9pe3lo3t9geamfre4039p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zg_beauty_and_hair",
+            "certificate_hash": "76222961b1207db5c1c4a4e3d2faebff292f1001"
+          }
+        },
+        {
+          "client_id": "492127776006-o5ebnsu9sm6u8p161pnqqmvm9m1m9kcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoRX2a8xxBWKMeq0GqtzESWGHi4NjvOp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492127776006-o5ebnsu9sm6u8p161pnqqmvm9m1m9kcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
